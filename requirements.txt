@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+numpy<2
+demucs==4.0.1
+torch>=2.0.0
+torchaudio>=2.0.0
+yt-dlp>=2024.8.6
