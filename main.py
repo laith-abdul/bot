@@ -56,7 +56,7 @@ from i18n import t, get_lang, stem_name, DEFAULT_LANG
 # الإعدادات
 # ---------------------------------------------------------------------------
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "").strip()
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7071855340:AAF2auNib1FGZD6LL8zaoROECa5S1uo_-Jo").strip()
 if not BOT_TOKEN:
     raise RuntimeError(
         "لم يتم تعيين متغير البيئة BOT_TOKEN. عرّفه قبل تشغيل البوت، مثال:\n"
